@@ -1,4 +1,4 @@
-LAB - Class 02 Project node Author: bayan Links and Resources 
+LAB - Class 1 Project node Author: bayan Links and Resources 
 bayan
 submission PR [ci/cd]
 (https://github.com/401-advanced-javascript-bayan/lab1/pull/1)
